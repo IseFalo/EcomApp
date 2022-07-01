@@ -1,8 +1,3 @@
-from distutils.command.upload import upload
-from ntpath import join
-from turtle import title
-from unicodedata import category
-from venv import create
 from django.db import models
 from django.contrib.auth.models import User
 # Create your models here.
