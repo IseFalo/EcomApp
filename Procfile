@@ -1,1 +1,1 @@
-web: gunicorn ecomproject.wsgi --log- file-
+web: gunicorn ecomsite.wsgi --log- file-
